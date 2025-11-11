@@ -2,7 +2,7 @@
 
 A flexible Frappe app designed to manage visibility of key documents and features in the connected mobile app, empowering users with configurable access to business documents and reports.
 
-This app acts as a **wrapper for the AmPower BuzzIT Mobile App**, enabling you to manage its availability and integration from within your ERP instance.
+This app acts as a **wrapper for the [AmPower BuzzIT Mobile App](https://github.com/Ambibuzz/ampower_buzzit_mobile_app)**, enabling you to manage its availability and integration from within your ERP instance.
 
 ---
 ## 🚀 Overview
